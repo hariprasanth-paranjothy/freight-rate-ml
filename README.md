@@ -1,4 +1,4 @@
-# Freight Rate Prediction — Spotter ML Assessment
+# Freight Rate Prediction
 
 Predict `posted_rate` ($) for freight loads from route, equipment, weight, date, and market signals.
 
