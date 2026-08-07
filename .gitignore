@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+models/*.joblib
+.DS_Store
+*.egg-info/
+
+catboost_info/
