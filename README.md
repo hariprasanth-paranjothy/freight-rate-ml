@@ -37,7 +37,7 @@ This trains the model, writes:
   - 20% Extra Trees
 - **Holdout MAE:** ~$111.5 (~4.9% MAPE)
 
-Full write-up: `REPORT.md` (source) / `Freight_Rate_Report.docx` (formatted, with charts)
+Full write-up: `REPORT.md` (source) / `Freight_Rate_Report.pdf` (with charts)
 
 ## Layout
 
